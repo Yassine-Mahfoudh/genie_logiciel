@@ -1,6 +1,6 @@
 <?php
 
-$firstname='jean';
+$firstname='ala';
 
 
 ?>
